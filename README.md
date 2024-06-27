@@ -1,3 +1,3 @@
 # demo
-My first GIT repository. <br> 
-Author - Vatsala Sinha
+My first GIT repository.
+<br> Author - Vatsala Sinha
