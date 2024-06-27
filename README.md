@@ -1,4 +1,3 @@
 # demo
-My first GIT repository.
-<br> 
+My first GIT repository. <br> 
 Author - Vatsala Sinha
